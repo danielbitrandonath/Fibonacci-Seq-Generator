@@ -1,2 +1,2 @@
 # Fibonacci-generator
-Simple and straightforward Fibonacci sequence generator.
+A simple and straightforward Fibonacci sequence generator.
