@@ -1,0 +1,13 @@
+body {
+    background-image: url("Leonardo-Pisano-Fibonacci.jpg");
+    background-color: #cccccc;
+    background-size: 105rem;
+}
+
+#gen {
+    background-image: url("Leonardo-Pisano-Fibonacci.jpg"); 
+}
+
+#clr {
+    background-image: url("Leonardo-Pisano-Fibonacci.jpg"); 
+}
